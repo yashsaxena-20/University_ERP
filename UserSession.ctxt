@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=UserSession
+comment1.params=
+comment1.target=UserSession()
+comment2.params=
+comment2.target=UserSession\ get()
+comment3.params=
+comment3.target=edu.univ.erp.domain.User\ getUser()
+comment4.params=user
+comment4.target=void\ setUser(edu.univ.erp.domain.User)
+numComments=5

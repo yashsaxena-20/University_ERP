@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=AuthRepository
+comment1.params=name
+comment1.target=edu.univ.erp.domain.User\ getUser(java.lang.String)
+comment2.params=name\ hash\ role
+comment2.target=long\ addUser(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=uid\ newHash
+comment3.target=boolean\ updateHash(long,\ java.lang.String)
+comment4.params=uid
+comment4.target=java.lang.String\ getHashById(long)
+comment5.params=uid
+comment5.target=java.lang.String\ getUsernameById(long)
+comment6.params=uid
+comment6.target=void\ updateLastLogin(long)
+numComments=7

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=AuthService
+comment1.params=name\ pass
+comment1.target=edu.univ.erp.domain.User\ login(java.lang.String,\ java.lang.String)
+comment2.params=uid\ oldPass\ newPass
+comment2.target=java.lang.String\ changePassword(long,\ java.lang.String,\ java.lang.String)
+numComments=3
